@@ -141,7 +141,7 @@ const loginPage = `
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>订阅管理系统</title>
+  <title>12302系统每日一报</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
   <style>
@@ -175,8 +175,8 @@ const loginPage = `
 <body class="login-container flex items-center justify-center">
   <div class="login-box p-8 rounded-xl w-full max-w-md">
     <div class="text-center mb-8">
-      <h1 class="text-2xl font-bold text-gray-800"><i class="fas fa-calendar-check mr-2"></i>订阅管理系统</h1>
-      <p class="text-gray-600 mt-2">登录管理您的订阅提醒</p>
+      <h1 class="text-2xl font-bold text-gray-800"><i class="fas fa-calendar-check mr-2"></i>12302系统每日一报</h1>
+      <p class="text-gray-600 mt-2">登录管理您的订阅系统</p>
     </div>
     
     <form id="loginForm" class="space-y-6">
@@ -249,7 +249,7 @@ const adminPage = `
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>订阅管理系统</title>
+  <title>12302系统每日一报</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
   <style>
@@ -465,7 +465,7 @@ const adminPage = `
       <div class="flex justify-between h-16">
         <div class="flex items-center">
           <i class="fas fa-calendar-check text-indigo-600 text-2xl mr-2"></i>
-          <span class="font-bold text-xl text-gray-800">订阅管理系统</span>
+          <span class="font-bold text-xl text-gray-800">12302系统每日一报</span>
         </div>
         <div class="flex items-center space-x-4">
           <a href="/admin" class="text-indigo-600 border-b-2 border-indigo-600 px-3 py-2 rounded-md text-sm font-medium">
